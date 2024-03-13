@@ -1,4 +1,4 @@
 void main(){
 
-	println("Hola Mundo");
+	println("Esta es una prueba");
 }
